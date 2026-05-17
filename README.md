@@ -1,0 +1,1 @@
+# craftspot-privacy
